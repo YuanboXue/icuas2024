@@ -1,6 +1,6 @@
 # icuas2024
 
-1-Download the src.zip 
+1-Download the src.zip /n
 2-catkin_make under the xxxx_ws directory
 
 3-Note that:
