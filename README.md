@@ -1,8 +1,7 @@
 # icuas2024
 
-Do:
-Download the "src"
-catkin_make under the xxxx_ws directory
+1-Download the src.zip 
+2-catkin_make under the xxxx_ws directory
 
-Note that:
+3-Note that:
 Modify the path in launch file to start rviz
